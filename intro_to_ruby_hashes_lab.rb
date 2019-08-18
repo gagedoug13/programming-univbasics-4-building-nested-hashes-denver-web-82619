@@ -1,6 +1,6 @@
 def base_hash
   my_hash = {
-		(:age => 22)
+		:age => 22
 	}
 end
 
