@@ -29,10 +29,15 @@ def monopoly_with_third_tier
 			},
 			:names =>
 			{
+				:railroad_1 => {},
+				:railroad_2 => {},
+				:railroad_3 => {},
+				:railroad_4 => {}
+			}
 
 			}
 		}
-	}
+	
 end
 
 def monopoly_with_fourth_tier
